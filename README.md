@@ -3,7 +3,7 @@
 [![Language](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![DSA](https://img.shields.io/badge/DSA-100%20Problems-brightgreen.svg)]()
 [![Target](https://img.shields.io/badge/Target-25%20Days-orange.svg)]()
-[![Status](https://img.shields.io/badge/Progress-0%2F100-red.svg)]()
+[![Status](https://img.shields.io/badge/Progress-1%2F100-yellow.svg)]()
 
 Welcome to the **Python DSA 100** repository! This is a 25-day interview preparation journey covering **100 carefully chosen Data Structures & Algorithms problems** frequently asked by top tech recruiters and FAANG/product companies.
 
@@ -49,7 +49,7 @@ Python-DSA/
 Focus: Python syntax, time complexity basics, array traversals, two pointers, strings.
 
 - [ ] **Day 1: Array Foundations & Traversal**
-  - [ ] `001` — Find Maximum Element in Array *(Array Traversal)*
+  - [x] [`001` — Find Maximum Element in Array](01_Foundations_Arrays_Strings/001_find_maximum_element.py) *(Array Traversal)*
   - [ ] `002` — Find Minimum Element in Array *(Array Traversal)*
   - [ ] `003` — Find Second Largest Element *(Single Pass)*
   - [ ] `004` — Reverse an Array *(Two Pointers)*
