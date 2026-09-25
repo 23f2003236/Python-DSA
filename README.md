@@ -3,7 +3,7 @@
 [![Language](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![DSA](https://img.shields.io/badge/DSA-100%20Problems-brightgreen.svg)]()
 [![Target](https://img.shields.io/badge/Target-25%20Days-orange.svg)]()
-[![Status](https://img.shields.io/badge/Progress-5%2F100-yellow.svg)]()
+[![Status](https://img.shields.io/badge/Progress-6%2F100-yellow.svg)]()
 
 Welcome to the **Python DSA 100** repository! This is a 25-day interview preparation journey covering **100 carefully chosen Data Structures & Algorithms problems** frequently asked by top tech recruiters and FAANG/product companies.
 
@@ -55,7 +55,7 @@ Focus: Python syntax, time complexity basics, array traversals, two pointers, st
   - [x] [`004` — Reverse an Array](01_Foundations_Arrays_Strings/004_reverse_an_array.py) *(Two Pointers)*
 - [ ] **Day 2: In-place Modifications & Basic Math**
   - [x] [`005` — Check if Array is Sorted](01_Foundations_Arrays_Strings/005_check_if_array_is_sorted.py) *(Traversal)*
-  - [ ] `006` — Remove Duplicates from Sorted Array *(Two Pointers / In-place)*
+  - [x] [`006` — Remove Duplicates from Sorted Array](01_Foundations_Arrays_Strings/006_remove_duplicates_sorted_array.py) *(Two Pointers / In-place)*
   - [ ] `007` — Move Zeroes to End *(Two Pointers)*
   - [ ] `008` — Find Missing Number *(Math Formula / XOR)*
 - [ ] **Day 3: Hashing & Frequency Counting**
