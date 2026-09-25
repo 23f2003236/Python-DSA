@@ -3,7 +3,7 @@
 [![Language](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![DSA](https://img.shields.io/badge/DSA-100%20Problems-brightgreen.svg)]()
 [![Target](https://img.shields.io/badge/Target-25%20Days-orange.svg)]()
-[![Status](https://img.shields.io/badge/Progress-8%2F100-yellow.svg)]()
+[![Status](https://img.shields.io/badge/Progress-10%2F100-yellow.svg)]()
 
 Welcome to the **Python DSA 100** repository! This is a 25-day interview preparation journey covering **100 carefully chosen Data Structures & Algorithms problems** frequently asked by top tech recruiters and FAANG/product companies.
 
@@ -59,8 +59,8 @@ Focus: Python syntax, time complexity basics, array traversals, two pointers, st
   - [x] [`007` — Move Zeroes to End](01_Foundations_Arrays_Strings/007_move_zeroes_to_end.py) *(Two Pointers)*
   - [x] [`008` — Find Missing Number](01_Foundations_Arrays_Strings/008_find_missing_number.py) *(Math Formula / XOR)*
 - [ ] **Day 3: Hashing & Frequency Counting**
-  - [ ] `009` — Find Duplicate Number *(Hash Set / Floyd's Cycle)*
-  - [ ] `010` — Frequency of Elements in Array *(Hash Map / Counter)*
+  - [x] [`009` — Find Duplicate Number](01_Foundations_Arrays_Strings/009_find_duplicate_number.py) *(Hash Set / Floyd's Cycle)*
+  - [x] [`010` — Frequency of Elements in Array](01_Foundations_Arrays_Strings/010_frequency_of_elements.py) *(Hash Map / Counter)*
   - [ ] `011` — First Non-Repeating Character in String *(Hash Map)*
   - [ ] `012` — Valid Anagram *(Frequency Count / Sorting)*
 - [ ] **Day 4: String Manipulations & Boundary Handling**
