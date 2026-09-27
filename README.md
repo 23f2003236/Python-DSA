@@ -3,7 +3,7 @@
 [![Language](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![DSA](https://img.shields.io/badge/DSA-100%20Problems-brightgreen.svg)]()
 [![Target](https://img.shields.io/badge/Target-25%20Days-orange.svg)]()
-[![Status](https://img.shields.io/badge/Progress-12%2F100-yellow.svg)]()
+[![Status](https://img.shields.io/badge/Progress-14%2F100-yellow.svg)]()
 
 Welcome to the **Python DSA 100** repository! This is a 25-day interview preparation journey covering **100 carefully chosen Data Structures & Algorithms problems** frequently asked by top tech recruiters and FAANG/product companies.
 
@@ -64,8 +64,8 @@ Focus: Python syntax, time complexity basics, array traversals, two pointers, st
   - [x] [`011` — First Non-Repeating Character in String](01_Foundations_Arrays_Strings/011_first_non_repeating_char.py) *(Hash Map)*
   - [x] [`012` — Valid Anagram](01_Foundations_Arrays_Strings/012_valid_anagram.py) *(Frequency Count / Sorting)*
 - [ ] **Day 4: String Manipulations & Boundary Handling**
-  - [ ] `013` — Valid Palindrome String *(Two Pointers)*
-  - [ ] `014` — Reverse Words in a String *(String Parsing / Two Pointers)*
+  - [x] [`013` — Valid Palindrome String](01_Foundations_Arrays_Strings/013_valid_palindrome.py) *(Two Pointers)*
+  - [x] [`014` — Reverse Words in a String](01_Foundations_Arrays_Strings/014_reverse_words_in_string.py) *(String Parsing / Two Pointers)*
   - [ ] `015` — Rotate Array by K Steps *(Array Reversal Algorithm)*
   - [ ] `016` — Linear Search *(Basic Searching)*
 
