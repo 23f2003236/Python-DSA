@@ -3,7 +3,7 @@
 [![Language](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![DSA](https://img.shields.io/badge/DSA-100%20Problems-brightgreen.svg)]()
 [![Target](https://img.shields.io/badge/Target-25%20Days-orange.svg)]()
-[![Status](https://img.shields.io/badge/Progress-16%2F100-brightgreen.svg)]()
+[![Status](https://img.shields.io/badge/Progress-18%2F100-brightgreen.svg)]()
 
 Welcome to the **Python DSA 100** repository! This is a 25-day interview preparation journey covering **100 carefully chosen Data Structures & Algorithms problems** frequently asked by top tech recruiters and FAANG/product companies.
 
@@ -75,8 +75,8 @@ Focus: Python syntax, time complexity basics, array traversals, two pointers, st
 Focus: Binary search patterns, Divide & Conquer, in-place sorting mechanisms.
 
 - [ ] **Day 5: Binary Search Mastery**
-  - [ ] `017` — Binary Search *(Iterative & Recursive)*
-  - [ ] `018` — First Occurrence of an Element *(Modified Binary Search)*
+  - [x] [`017` — Binary Search](02_Searching_and_Sorting/017_binary_search.py) *(Iterative & Recursive)*
+  - [x] [`018` — First Occurrence of an Element](02_Searching_and_Sorting/018_first_occurrence.py) *(Modified Binary Search)*
   - [ ] `019` — Last Occurrence of an Element *(Modified Binary Search)*
   - [ ] `020` — Search Insert Position *(Binary Search Boundary)*
 - [ ] **Day 6: Essential Sorting Algorithms**
