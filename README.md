@@ -274,22 +274,5 @@ In technical interviews, writing the code is only step 4. Recruiters evaluate ho
    └── Walk through test cases: empty list, 1 element, duplicates, negatives
 ```
 
----
-
-## 🚀 Git Workflow & How to Push
-
-The repository is already initialized and linked to your GitHub repository:
-`https://github.com/23f2003236/Python-DSA.git`
-
-### Whenever you want to push commits to GitHub:
-Open PowerShell / Terminal in this folder and run:
-
-```bash
-git push -u origin main
-```
-
-*(Git Credential Manager will authenticate your account once, and subsequent pushes will happen automatically with just `git push`).*
-
----
 
 **Happy Problem Solving! 🚀 Stay consistent, understand the patterns, and celebrate every completed milestone.**
