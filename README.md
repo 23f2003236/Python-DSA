@@ -3,7 +3,7 @@
 [![Language](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![DSA](https://img.shields.io/badge/DSA-100%20Problems-brightgreen.svg)]()
 [![Target](https://img.shields.io/badge/Target-25%20Days-orange.svg)]()
-[![Status](https://img.shields.io/badge/Progress-20%2F100-brightgreen.svg)]()
+[![Status](https://img.shields.io/badge/Progress-22%2F100-brightgreen.svg)]()
 
 Welcome to the **Python DSA 100** repository! This is a 25-day interview preparation journey covering **100 carefully chosen Data Structures & Algorithms problems** frequently asked by top tech recruiters and FAANG/product companies.
 
@@ -80,8 +80,8 @@ Focus: Binary search patterns, Divide & Conquer, in-place sorting mechanisms.
   - [x] [`019` — Last Occurrence of an Element](02_Searching_and_Sorting/019_last_occurrence.py) *(Modified Binary Search)*
   - [x] [`020` — Search Insert Position](02_Searching_and_Sorting/020_search_insert_position.py) *(Binary Search Boundary)*
 - [ ] **Day 6: Essential Sorting Algorithms**
-  - [ ] `021` — Bubble Sort *(Swapping & Optimization Flag)*
-  - [ ] `022` — Selection Sort *(Minimum Selection)*
+  - [x] [`021` — Bubble Sort](02_Searching_and_Sorting/021_bubble_sort.py) *(Swapping & Optimization Flag)*
+  - [x] [`022` — Selection Sort](02_Searching_and_Sorting/022_selection_sort.py) *(Minimum Selection)*
   - [ ] `023` — Insertion Sort *(Shifting Elements)*
   - [ ] `024` — Merge Sort *(Divide and Conquer / Recursion)*
 
