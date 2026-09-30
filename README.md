@@ -3,7 +3,7 @@
 [![Language](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![DSA](https://img.shields.io/badge/DSA-100%20Problems-brightgreen.svg)]()
 [![Target](https://img.shields.io/badge/Target-25%20Days-orange.svg)]()
-[![Status](https://img.shields.io/badge/Progress-24%2F100-brightgreen.svg)]()
+[![Status](https://img.shields.io/badge/Progress-25%2F100-brightgreen.svg)]()
 
 Welcome to the **Python DSA 100** repository! This is a 25-day interview preparation journey covering **100 carefully chosen Data Structures & Algorithms problems** frequently asked by top tech recruiters and FAANG/product companies.
 
@@ -91,7 +91,7 @@ Focus: Binary search patterns, Divide & Conquer, in-place sorting mechanisms.
 Focus: $O(1)$ lookups, cumulative sums, frequency counts, sub-array tracking.
 
 - [ ] **Day 7: Advanced Sorting & The Two Sum Family**
-  - [ ] `025` — Quick Sort *(Partitioning & Pivot Selection)*
+  - [x] [`025` — Quick Sort](02_Searching_and_Sorting/025_quick_sort.py) *(Partitioning & Pivot Selection)*
   - [ ] `026` — Two Sum *(Hash Map — Complement Lookup)*
   - [ ] `027` — Three Sum *(Sorting + Two Pointers)*
   - [ ] `028` — Intersection of Two Arrays *(Hash Set / Two Pointers)*
