@@ -3,7 +3,7 @@
 [![Language](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![DSA](https://img.shields.io/badge/DSA-100%20Problems-brightgreen.svg)]()
 [![Target](https://img.shields.io/badge/Target-25%20Days-orange.svg)]()
-[![Status](https://img.shields.io/badge/Progress-26%2F100-brightgreen.svg)]()
+[![Status](https://img.shields.io/badge/Progress-28%2F100-brightgreen.svg)]()
 
 Welcome to the **Python DSA 100** repository! This is a 25-day interview preparation journey covering **100 carefully chosen Data Structures & Algorithms problems** frequently asked by top tech recruiters and FAANG/product companies.
 
@@ -90,11 +90,11 @@ Focus: Binary search patterns, Divide & Conquer, in-place sorting mechanisms.
 ### 🟡 Phase 3: Hashing & Prefix Sum (Days 7–9)
 Focus: $O(1)$ lookups, cumulative sums, frequency counts, sub-array tracking.
 
-- [ ] **Day 7: Advanced Sorting & The Two Sum Family**
+- [x] **Day 7: Advanced Sorting & The Two Sum Family (4/4 Completed)**
   - [x] [`025` — Quick Sort](02_Searching_and_Sorting/025_quick_sort.py) *(Partitioning & Pivot Selection)*
   - [x] [`026` — Two Sum](03_Hashing_and_Prefix_Sum/026_two_sum.py) *(Hash Map — Complement Lookup)*
-  - [ ] `027` — Three Sum *(Sorting + Two Pointers)*
-  - [ ] `028` — Intersection of Two Arrays *(Hash Set / Two Pointers)*
+  - [x] [`027` — Three Sum](03_Hashing_and_Prefix_Sum/027_three_sum.py) *(Sorting + Two Pointers)*
+  - [x] [`028` — Intersection of Two Arrays](03_Hashing_and_Prefix_Sum/028_intersection_of_two_arrays.py) *(Hash Set / Two Pointers)*
 - [ ] **Day 8: Frequency, Voting & Set Invariants**
   - [ ] `029` — Union of Two Arrays *(Hash Set / Two Pointers)*
   - [ ] `030` — Majority Element (> n/2) *(Boyer-Moore Voting Algorithm)*
