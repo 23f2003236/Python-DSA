@@ -3,7 +3,7 @@
 [![Language](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![DSA](https://img.shields.io/badge/DSA-100%20Problems-brightgreen.svg)]()
 [![Target](https://img.shields.io/badge/Target-25%20Days-orange.svg)]()
-[![Status](https://img.shields.io/badge/Progress-28%2F100-brightgreen.svg)]()
+[![Status](https://img.shields.io/badge/Progress-30%2F100-brightgreen.svg)]()
 
 Welcome to the **Python DSA 100** repository! This is a 25-day interview preparation journey covering **100 carefully chosen Data Structures & Algorithms problems** frequently asked by top tech recruiters and FAANG/product companies.
 
@@ -96,8 +96,8 @@ Focus: $O(1)$ lookups, cumulative sums, frequency counts, sub-array tracking.
   - [x] [`027` — Three Sum](03_Hashing_and_Prefix_Sum/027_three_sum.py) *(Sorting + Two Pointers)*
   - [x] [`028` — Intersection of Two Arrays](03_Hashing_and_Prefix_Sum/028_intersection_of_two_arrays.py) *(Hash Set / Two Pointers)*
 - [ ] **Day 8: Frequency, Voting & Set Invariants**
-  - [ ] `029` — Union of Two Arrays *(Hash Set / Two Pointers)*
-  - [ ] `030` — Majority Element (> n/2) *(Boyer-Moore Voting Algorithm)*
+  - [x] [`029` — Union of Two Arrays](03_Hashing_and_Prefix_Sum/029_union_of_two_arrays.py) *(Hash Set / Two Pointers)*
+  - [x] [`030` — Majority Element (> n/2)](03_Hashing_and_Prefix_Sum/030_majority_element.py) *(Boyer-Moore Voting Algorithm)*
   - [ ] `031` — Longest Consecutive Sequence *(Hash Set — Streak Starter)*
   - [ ] `032` — Subarray With Given Sum *(Sliding Window / Prefix Sum)*
 - [ ] **Day 9: Prefix Sum with Hash Map & Heaps**
